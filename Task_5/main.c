@@ -4,6 +4,7 @@
 
 int main()
 {
-    CalculatePurchaseAmount();
+    //CalculatePurchaseAmount();
+    CalculateEmployeeBonus();
     return 0;
 }
