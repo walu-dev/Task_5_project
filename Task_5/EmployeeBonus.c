@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "EmployeeBonus.h"
 
-CalculateEmployeeBonus(){
+void CalculateEmployeeBonus(){
     double bonus = 0.05;
     double WorkingYears, FinalSalary, BasicSalary;
 
