@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "PurchaseAmount.h"
 
 int main()
 {
-    printf("Hello world!\n");
+    CalculatePurchaseAmount();
     return 0;
 }
