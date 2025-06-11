@@ -1,4 +1,4 @@
-#ifdef PURCHASEAMOUNT_H
+#ifndef PURCHASEAMOUNT_H
 #define PURCHASEAMOUNT_H
 
 void CalculatePurchaseAmount();
