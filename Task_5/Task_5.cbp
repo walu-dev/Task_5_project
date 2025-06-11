@@ -31,6 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="EmployeeBonus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EmployeeBonus.h" />
+		<Unit filename="PurchaseAmount.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PurchaseAmount.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
