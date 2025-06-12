@@ -8,6 +8,6 @@ int main()
 {
     //CalculatePurchaseAmount();
     //CalculateEmployeeBonus();
-    loanEligibility(EmployeeYears, Salary);
+    //loanEligibility(EmployeeYears, Salary);
     return 0;
 }
