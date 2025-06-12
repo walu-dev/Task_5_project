@@ -10,7 +10,7 @@ int main()
     //CalculatePurchaseAmount();
     //CalculateEmployeeBonus();
     //loanEligibility(EmployeeYears, Salary);
-    double CalculatedAmountPayable = CalculateAmountPayable();
-    printf("The payable Amount is: %.2lf", CalculatedAmountPayable);
+   // double CalculatedAmountPayable = CalculateAmountPayable();
+    //printf("The payable Amount is: %.2lf", CalculatedAmountPayable);
     return 0;
 }
