@@ -1,10 +1,11 @@
 # depslib dependency file v1.0
-1749722238 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\main.c
+1749726120 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\main.c
 	<stdio.h>
 	<stdlib.h>
 	"PurchaseAmount.h"
 	"Loan.h"
 	"SalesTax.h"
+	"TotalSalary.h"
 
 1749565375 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\purchaseamount.c
 	<stdio.h>
@@ -29,4 +30,6 @@
 	"SalesTax.h"
 
 1749720644 c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\salestax.h
+
+1749726682 c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\totalsalary.h
 

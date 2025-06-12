@@ -1,4 +1,4 @@
-#ifndef TOYALSALARY_H
+#ifndef TOTALSALARY_H
 
 double CalculateTotalSalary();
-#endif // TOYALSALARY_H
+#endif // TOTALSALARY_H
