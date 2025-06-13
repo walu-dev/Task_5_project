@@ -5,6 +5,7 @@
 #include "Loan.h"
 #include "SalesTax.h"
 #include "TotalSalary.h"
+#include "ProfitAndLoss.h"
 
 double EmployeeYears, Salary;
 int main()
@@ -18,6 +19,8 @@ int main()
 
     double CalculatedTotalSalary = CalculateTotalSalary();
     printf("The total salary is: %lf", CalculatedTotalSalary);*/
+
+    CalculateProfitLoss();
 
     return 0;
 }
