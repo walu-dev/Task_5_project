@@ -8,8 +8,9 @@
 #include "ProfitAndLoss.h"
 #include "NetAmount.h"
 #include "TotalBill.h"
+#include "Membership.h"
 
-double EmployeeYears, Salary, WithdrawAmount, units;
+double EmployeeYears, Salary, WithdrawAmount, units, duration, TotalFee;
 int main()
 {
     /*CalculatePurchaseAmount();
@@ -24,7 +25,8 @@ int main()
 
     //CalculateProfitLoss();
     //CalculateNetAmount(WithdrawAmount);
-    CalculateTotalBill(units);
+    //CalculateTotalBill(units);
+    CalculateMembership(duration, TotalFee);
 
     return 0;
 }
