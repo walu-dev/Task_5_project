@@ -6,8 +6,9 @@
 #include "SalesTax.h"
 #include "TotalSalary.h"
 #include "ProfitAndLoss.h"
+#include "NetAmount.h"
 
-double EmployeeYears, Salary;
+double EmployeeYears, Salary, WithdrawAmount;
 int main()
 {
     /*CalculatePurchaseAmount();
@@ -20,7 +21,8 @@ int main()
     double CalculatedTotalSalary = CalculateTotalSalary();
     printf("The total salary is: %lf", CalculatedTotalSalary);*/
 
-    CalculateProfitLoss();
+    //CalculateProfitLoss();
+    CalculateNetAmount(WithdrawAmount);
 
     return 0;
 }
