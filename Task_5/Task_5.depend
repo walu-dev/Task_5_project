@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1749815508 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\main.c
+1749816836 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\main.c
 	<stdio.h>
 	<stdlib.h>
 	"PurchaseAmount.h"
@@ -42,9 +42,15 @@
 
 1749811678 c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\profitandloss.h
 
-1749815396 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\netamount.c
+1749815554 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\netamount.c
 	<stdio.h>
 	"NetAmount.h"
 
 1749814498 c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\netamount.h
+
+1749817049 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\totalbill.c
+	<stdio.h>
+	"TotalBill.h"
+
+1749816496 c:\users\hp\desktop\jonathan docu\comp office\c program\task_5_project\task_5\totalbill.h
 
